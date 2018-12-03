@@ -125,6 +125,7 @@ Output
 If xy<yx, then print '<' (without quotes). If xy>yx, then print '>' (without quotes). If xy=yx, then print '=' (without quotes).
 
 Examples
+```
 input
 5 8
 output
@@ -139,6 +140,7 @@ input
 6 6
 output
 =
+```
 
 ### Note
 In the first example **5^8 = 5.5.5.5.5.5.5.5 = 390625**, and **8^5= 8.8.8.8.8 = 32768.** So you should print '>'.
