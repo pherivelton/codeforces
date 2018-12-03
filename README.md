@@ -1,2 +1,1 @@
-# codeforces
-Questões do site do Codeforces
+Codeforces Questions 
