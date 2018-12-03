@@ -2,7 +2,7 @@
 
 - [988 A](#988A)
 - [988 B](#988B)
-- [987 A](#987A)
+- [987 B](#987B)
 
 ## 988A
 
@@ -110,7 +110,7 @@ qwerty
 ### Note
 In the second example you cannot reorder the strings because the string "abab" is not a substring of the string "abacaba".
 
-## 987A
+## 987B
 
 Year 2118. Androids are in mass production for decades now, and they do all the work for humans. But androids have to go to school to be able to solve creative tasks. Just like humans before.
 
