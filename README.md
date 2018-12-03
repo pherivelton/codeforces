@@ -22,6 +22,7 @@ If it is impossible to form a suitable team, print "NO" (without quotes). Otherw
 Assume that the students are numbered from 1 to n.
 
 Examples
+```
 input
 5 3
 15 13 15 15 12
@@ -42,7 +43,8 @@ output
 YES
 1 2 3 4 
 
-Note
+```
+### Note
 All possible answers for the first example:
 
 {1 2 5}
