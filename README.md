@@ -1,4 +1,4 @@
-**Link Codeforces's Profile: ** http://codeforces.com/pherivelton
+**Link Codeforces's Profile:** http://codeforces.com/pherivelton
 
 - [988 A](#988A)
 - [988 B](#988B)
